@@ -25,20 +25,20 @@ const Students = () => {
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Rajesh</td>
+      <td>Raju</td>
       <td>25</td>
       <td>Full-Stack</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Sanjay</td>
+      <td>Shyam</td>
       <td>26</td>
       <td>Java Developer</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Suraj</td>
-      <td>24</td>
+      <td>Baburao</td>
+      <td>27</td>
       <td>Python Developer</td>
     </tr>
   </tbody>
