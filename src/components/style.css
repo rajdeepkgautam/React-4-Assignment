@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to top, rgb(91, 105, 105), rgb(125, 125, 225), rgb(100, 187, 215));
+    height: 100vh;
+
+}
+.Nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ad7fb6;
+}
+
+.ip{
+    height: 80px;
+    width: 150px;
+    margin: 30px;
+    background-color: #0dcaf0;
+    border-radius: 18px;
+    text-align: center;
+    font-size: 32px;
+}
+.tab{
+    padding: 30px;
+}
+
+.btn{
+    color: rgb(229, 209, 209);
+    background-color: rgb(6, 21, 35);
+    font-size: 18px;
+    height: 44px;
+    width: 150px;
+}
